@@ -1,5 +1,7 @@
 # HR Analytics Dashboard — Power BI
 
+<img width="838" height="299" alt="Image" src="https://github.com/user-attachments/assets/e5e9cad4-6d0d-436c-a6ee-39b5ef5f7fa4" />
+
 A five-page Power BI report analysing workforce data for 1,000 employees across three countries, built to answer the questions an HR manager actually acts on: who is leaving, when, where pay sits, and where experience is about to walk out the door.
 
 ---
@@ -23,6 +25,25 @@ This reframes the retention problem entirely: the issue is onboarding, not long-
 | **Retirement Risk & Geography** | Where are we about to lose experience? |
 
 Each page opens with a stated claim and the visuals below it serve as evidence, rather than presenting metrics without interpretation.
+
+<img width="826" height="329" alt="Image" src="https://github.com/user-attachments/assets/d3bd8b51-3166-49c8-97ad-0c77a881854c" />
+
+ 
+<img width="838" height="299" alt="Image" src="https://github.com/user-attachments/assets/bac1fc23-92ab-413c-902f-2fc4048d99ce" />
+
+
+ 
+<img width="743" height="296" alt="Image" src="https://github.com/user-attachments/assets/00aab0cd-ac4a-489a-920f-221dcb0ac512" />
+
+
+ 
+<img width="746" height="300" alt="Image" src="https://github.com/user-attachments/assets/819ad891-1b30-418f-b8ce-89a995dbd634" />
+
+
+ 
+<img width="733" height="298" alt="Image" src="https://github.com/user-attachments/assets/6dfcb9fc-51d6-437f-9dea-51cb04ecd866" />
+
+
 
 ---
 
